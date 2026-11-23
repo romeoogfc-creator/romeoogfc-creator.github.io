@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://romeoogfc-creator.github.io/sitemap.xml
+Sitemap: https://tienlennova.com/sitemap.xml
